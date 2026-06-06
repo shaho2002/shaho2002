@@ -21,7 +21,7 @@
     <li><strong>💡 Passionate about:</strong> Clean architecture, database optimization, API design, and writing maintainable backend code.</li>
     <li><strong>🎨 Frontend interest:</strong> While my strength is backend, I enjoy understanding frontend trends to collaborate better with frontend teams.</li>
     <li><strong>🚀 Mindset:</strong> Always learning, refactoring, and pushing boundaries with modern backend technologies.</li>
-    <li><strong>⚡ Fun fact:</strong> I debug backend issues while you're still loading the page ☕</li>
+    <li><strong>⚡ Fact:</strong> I don't stop when I'm tired. I stop when the bug is fixed ☕</li>
   </ul>
 </div>
 
@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" alt="JavaScript" title="JavaScript" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="65" alt="PHP" title="PHP" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="65" alt="Laravel" title="Laravel" style="margin: 0 10px;" />
-<img src="https://avatars.githubusercontent.com/u/51960834?v=4" alt="Owner avatar" height="65" style="margin: 0 10px;" />
+  <img src="https://avatars.githubusercontent.com/u/51960834?v=4" alt="Owner avatar" height="65" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="65" alt="MySQL" title="MySQL" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65" alt="Git" title="Git" style="margin: 0 10px;" />
 </p>
