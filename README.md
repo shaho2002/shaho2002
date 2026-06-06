@@ -7,8 +7,6 @@
   </a>
 </p>
 
----
-
 <!-- About Me - Fully Responsive -->
 <div align="center">
   <h2>👨‍💻 About Me</h2>
@@ -28,7 +26,6 @@
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="250" style="border-radius: 10px; max-width: 100%; height: auto;" />
 </div>
----
 
 ### 🛠️ Languages & Tools
 
