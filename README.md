@@ -9,44 +9,25 @@
 
 ---
 
-### 👨‍💻 About Me
+<!-- About Me - Fully Responsive -->
+<div align="center">
+  <h2>👨‍💻 About Me</h2>
+</div>
 
-<table>
-  <tr>
-    <td width="60%">
-<ul>
-  <li>
-    <strong>🔭 Core focus:</strong> Backend development with 
-    <strong>Laravel & Livewire</strong> — building robust, scalable, and secure web applications.
-  </li>
-  <li>
-    <strong>⚙️ Currently leveling up:</strong> 
-    <strong>Modern JavaScript (ES6+)</strong> — to write cleaner backend logic and 
-    occasionally enhance frontend interactions when needed.
-  </li>
-  <li>
-    <strong>💡 Passionate about:</strong> Clean architecture, database optimization, 
-    API design, and writing maintainable backend code.
-  </li>
-  <li>
-    <strong>🎨 Frontend interest:</strong> While my strength is backend, 
-    I enjoy understanding frontend trends to collaborate better with frontend teams.
-  </li>
-  <li>
-    <strong>🚀 Mindset:</strong> Always learning, refactoring, and pushing boundaries 
-    with modern backend technologies.
-  </li>
-  <li>
-    <strong>⚡ Fun fact:</strong> I debug backend issues while you're still loading the page ☕
-  </li>
-</ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="250" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <ul>
+    <li><strong>🔭 Core focus:</strong> Backend development with <strong>Laravel & Livewire</strong> — building robust, scalable, and secure web applications.</li>
+    <li><strong>⚙️ Currently leveling up:</strong> <strong>Modern JavaScript (ES6+)</strong> — to write cleaner backend logic and occasionally enhance frontend interactions when needed.</li>
+    <li><strong>💡 Passionate about:</strong> Clean architecture, database optimization, API design, and writing maintainable backend code.</li>
+    <li><strong>🎨 Frontend interest:</strong> While my strength is backend, I enjoy understanding frontend trends to collaborate better with frontend teams.</li>
+    <li><strong>🚀 Mindset:</strong> Always learning, refactoring, and pushing boundaries with modern backend technologies.</li>
+    <li><strong>⚡ Fun fact:</strong> I debug backend issues while you're still loading the page ☕</li>
+  </ul>
+</div>
 
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="250" style="border-radius: 10px; max-width: 100%; height: auto;" />
+</div>
 ---
 
 ### 🛠️ Languages & Tools
