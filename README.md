@@ -14,7 +14,7 @@
 
 <div align="left">
   <ul>
-    <li><strong>🔭 Core focus:</strong> Backend development with <strong>Laravel & Livewire</strong> — building robust, scalable, and secure web applications.</li>
+    <li><strong>🔭 Core focus:</strong> Backend development with <strong>Laravel & Livewire</strong> — building robust, scalable, and secure Websites.</li>
     <li><strong>⚙️ Currently leveling up:</strong> <strong>Modern JavaScript (ES6+)</strong> — to write cleaner backend logic and occasionally enhance frontend interactions when needed.</li>
     <li><strong>💡 Passionate about:</strong> Clean architecture, database optimization, API design, and writing maintainable backend code.</li>
     <li><strong>🎨 Frontend interest:</strong> While my strength is backend, I enjoy understanding frontend trends to collaborate better with frontend teams.</li>
